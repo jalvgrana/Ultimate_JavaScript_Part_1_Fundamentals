@@ -2,7 +2,7 @@
 Code with Mosh course <br>
 https://codewithmosh.com/p/ultimate-javascript-series <br>
 Highly practical <br>
-What You'll Learn <br>
+What You'll Learn: <br>
 - Master the fundamentals of JavaScript programming
 - Troubleshoot and fix common JavaScript errors
 - Explore advanced JavaScript concepts such as prototypes and object-oriented programming (OOP)
