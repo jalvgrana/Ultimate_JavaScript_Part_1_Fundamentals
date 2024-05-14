@@ -1,8 +1,8 @@
-# Ultimate_JavaScript_Part_1_Fundamentals <hr>
-Code with Mosh course <hr>
-https://codewithmosh.com/p/ultimate-javascript-series <hr>
-Highly practical <hr>
-What You'll Learn <hr>
+# Ultimate_JavaScript_Part_1_Fundamentals <br>>
+Code with Mosh course <br>
+https://codewithmosh.com/p/ultimate-javascript-series <br>
+Highly practical <br>
+What You'll Learn <br>
 <ul>
 Master the fundamentals of JavaScript programming
 Troubleshoot and fix common JavaScript errors
