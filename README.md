@@ -1,4 +1,4 @@
-# Ultimate_JavaScript_Part_1_Fundamentals <br>>
+# Ultimate_JavaScript_Part_1_Fundamentals <br>
 Code with Mosh course <br>
 https://codewithmosh.com/p/ultimate-javascript-series <br>
 Highly practical <br>
