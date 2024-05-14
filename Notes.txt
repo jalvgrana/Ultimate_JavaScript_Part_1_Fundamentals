@@ -1,0 +1,2 @@
+for(let mark of marks) --> OF en arrays. Se usa en iterables como arrays  y maps
+for(let mark in marks) --> IN en objetos
